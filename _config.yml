@@ -1,6 +1,6 @@
 name: prof. marques teixeira
 favicon: null
-layout_spectrum: 0.90744
+layout_spectrum: 0.84677
 typography_spectrum: 0.5496634379960597
 title: prof. marques teixeira
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#4c4958'
+    - '#d8ae4f'
+    - '#ad446a'
+    - '#ffd5db'
   brandStrength: 0.375
   lightness: 0.41224422468803823
   saturation: 0.6537210387177765
