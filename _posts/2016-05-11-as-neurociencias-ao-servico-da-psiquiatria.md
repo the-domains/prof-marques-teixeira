@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Psiquiatria e Neuropsiquiatria
-datePublished: '2016-05-11T22:46:28.794Z'
-dateModified: '2016-05-11T22:46:18.648Z'
+datePublished: '2016-05-11T23:06:42.077Z'
+dateModified: '2016-05-11T23:05:26.102Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-as-neurociencias-ao-servico-da-psiquiatria.md
@@ -24,3 +24,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1b9c795-7fbc-4094-ba23-eefefb9b3bda.jpg)
 
 **Psiquiatria e Neuropsiquiatria**
+
+* A Psiquiatria ocupa-se das alterações patológicas do psiquismo.
+
+* A Neuropsiquitria ocupa-se das ligações entre essas alterações e o cérebro.
+
+* No seu conjunto, os dois olhares, completam-se mutuamente.
