@@ -4,7 +4,7 @@
         <description><![CDATA[prof. marques teixeira             psiquiatria e neuropsiquiatria]]></description>
         <link>https://thegrid.ai/prof-marques-teixeira/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 22:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 22:40:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/prof-marques-teixeira/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/prof-marques-teixeira/psiquiatria-neuropsiquiatria/index.html</link>
             <guid isPermaLink="false">0000cc26-fe71-4957-b163-5abd605721bf</guid>
             <pubDate>Wed, 11 May 2016 22:26:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As Neurociências ao serviço da Psiquiatria]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1b9c795-7fbc-4094-ba23-eefefb9b3bda.jpg">]]></description>
+            <link>https://thegrid.ai/prof-marques-teixeira/as-neurociencias-ao-servico-da-psiquiatria/index.html</link>
+            <guid isPermaLink="false">1f7b1885-ee3e-4d88-919f-81dc17a0f899</guid>
+            <pubDate>Wed, 11 May 2016 22:40:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Doença e Padecimento]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/prof-marques-teixeira/olhar-o-doente-e-ver-o-senso-comum/index.html</link>
             <guid isPermaLink="false">c84f01be-acc5-4a48-b4f1-4e260f8440a8</guid>
             <pubDate>Wed, 11 May 2016 22:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As Neurociências ao serviço da Psiquiatria]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1b9c795-7fbc-4094-ba23-eefefb9b3bda.jpg">]]></description>
-            <link>https://thegrid.ai/prof-marques-teixeira/as-neurociencias-ao-servico-da-psiquiatria/index.html</link>
-            <guid isPermaLink="false">1f7b1885-ee3e-4d88-919f-81dc17a0f899</guid>
-            <pubDate>Wed, 11 May 2016 22:00:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
