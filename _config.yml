@@ -1,6 +1,6 @@
 name: prof. marques teixeira
 favicon: null
-layout_spectrum: 0.1791
+layout_spectrum: 0.90744
 typography_spectrum: 0.5496634379960597
 title: prof. marques teixeira             psiquiatria e neuropsiquiatria
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.43896002718247473
+  brandStrength: 0.375
   lightness: 0.41224422468803823
   saturation: 0.6537210387177765
   rhythmicContrast: 0.631654460914433
