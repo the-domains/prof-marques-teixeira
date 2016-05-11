@@ -1,0 +1,28 @@
+name: prof. marques teixeira
+favicon: null
+layout_spectrum: 0.7691355152055621
+typography_spectrum: 0.5496634379960597
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.43896002718247473
+  lightness: 0.41224422468803823
+  saturation: 0.6537210387177765
+  rhythmicContrast: 0.631654460914433
+purpose: []
