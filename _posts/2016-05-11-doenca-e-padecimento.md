@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Atender ao sofrimento para além da doença
-datePublished: '2016-05-11T22:37:04.730Z'
-dateModified: '2016-05-11T22:36:52.935Z'
+datePublished: '2016-05-11T23:06:34.499Z'
+dateModified: '2016-05-11T23:00:56.395Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-doenca-e-padecimento.md
@@ -25,4 +25,5 @@ _type: Article
 
 **Atender ao sofrimento para além da doença**
 
-A doença é uma categoria médica importante para estabelecer um plano de tratamento, mas o cuidado médico não se esgota aqui. Atender ao sofrimento que a doença acarreta é dever ético de qualquer médico.
+* A doença é uma categoria médica que ajuda a definir um plano de tratamento. 
+* Contudo a ajuda ao doente não se esgota na definição da doença mas estende-se para a compreensão empática do seu sofrimento.
