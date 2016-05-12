@@ -4,15 +4,8 @@
         <description><![CDATA[prof. marques teixeira]]></description>
         <link>https://thegrid.ai/prof-marques-teixeira/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 00:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 00:03:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/prof-marques-teixeira/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ideias sobre a prática clínica]]></title>
-            <description><![CDATA[<article><h1>Ideias sobre a prática clínica</h1><p>A Psiquiatria é uma especialidade médica que se baseia na análise das alterações patológicas do psiquismo e que se expressam no comportamento. Por isso podemos designá-la como a especialidade médica que trata das perturbações do comportamento.</p></article>]]></description>
-            <link>https://thegrid.ai/prof-marques-teixeira/doenca-e-padecimento/index.html</link>
-            <guid isPermaLink="false">10bed007-fd52-4f36-8e6e-72e527eabb91</guid>
-            <pubDate>Thu, 12 May 2016 00:03:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[As Neurociências ao serviço da Psiquiatria]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1b9c795-7fbc-4094-ba23-eefefb9b3bda.jpg">]]></description>
@@ -26,6 +19,13 @@
             <link>https://thegrid.ai/prof-marques-teixeira/olhar-o-doente-e-ver-o-senso-comum/index.html</link>
             <guid isPermaLink="false">c84f01be-acc5-4a48-b4f1-4e260f8440a8</guid>
             <pubDate>Wed, 11 May 2016 23:06:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Atender ao sofrimento para além da doença]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c378df2d-5b0b-4a2d-8650-96af7f21292d.jpg">]]></description>
+            <link>https://thegrid.ai/prof-marques-teixeira/doenca-e-padecimento/index.html</link>
+            <guid isPermaLink="false">10bed007-fd52-4f36-8e6e-72e527eabb91</guid>
+            <pubDate>Wed, 11 May 2016 23:06:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
