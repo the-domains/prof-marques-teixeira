@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Psiquiatria e Neuropsiquiatria
-datePublished: '2016-05-11T23:06:42.077Z'
-dateModified: '2016-05-11T23:05:26.102Z'
-title: ''
+description: ''
+datePublished: '2016-05-12T00:04:08.219Z'
+dateModified: '2016-05-12T00:02:24.273Z'
+title: Psiquiatria e Neuropsiquiatria
 author: []
 sourcePath: _posts/2016-05-11-as-neurociencias-ao-servico-da-psiquiatria.md
 authors: []
@@ -21,9 +21,8 @@ url: as-neurociencias-ao-servico-da-psiquiatria/index.html
 _type: Article
 
 ---
+# Psiquiatria e Neuropsiquiatria
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1b9c795-7fbc-4094-ba23-eefefb9b3bda.jpg)
-
-**Psiquiatria e Neuropsiquiatria**
 
 * A Psiquiatria ocupa-se das alterações patológicas do psiquismo.
 
