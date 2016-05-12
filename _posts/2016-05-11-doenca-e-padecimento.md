@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Atender ao sofrimento para além da doença
-datePublished: '2016-05-11T23:06:34.499Z'
-dateModified: '2016-05-11T23:00:56.395Z'
-title: ''
+description: A Psiquiatria é uma especialidade médica que se baseia na análise das alterações patológicas do psiquismo e que se expressam no comportamento. Por isso podemos designá-la como a especialidade médica que trata das perturbações do comportamento.
+datePublished: '2016-05-12T00:03:53.308Z'
+dateModified: '2016-05-12T00:02:57.144Z'
+title: Ideias sobre a prática clínica
 author: []
 sourcePath: _posts/2016-05-11-doenca-e-padecimento.md
 authors: []
@@ -21,9 +21,7 @@ url: doenca-e-padecimento/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c378df2d-5b0b-4a2d-8650-96af7f21292d.jpg)
+# Ideias sobre a prática clínica
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87b66ee4-5bb8-4882-b014-e090134e00fc.jpg)
 
-**Atender ao sofrimento para além da doença**
-
-* A doença é uma categoria médica que ajuda a definir um plano de tratamento. 
-* Contudo a ajuda ao doente não se esgota na definição da doença mas estende-se para a compreensão empática do seu sofrimento.
+A Psiquiatria é uma especialidade médica que se baseia na análise das alterações patológicas do psiquismo e que se expressam no comportamento. Por isso podemos designá-la como a especialidade médica que trata das perturbações do comportamento.
